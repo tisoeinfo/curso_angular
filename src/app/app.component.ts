@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'RSBM';
-  subTitle : string = ' es la persona que esta Logueada!'
 }
